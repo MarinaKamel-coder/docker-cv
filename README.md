@@ -37,7 +37,8 @@ docker run -p 3000:3000 marinakamel/mon-cv-docker:v7
 
 ### 5. Accéder à l'application
 Ouvrez votre navigateur à l'adresse suivante :
-``` http://localhost:3000
+```
+http://localhost:3000
 ```
 
 ## 🏗️ Optimisations Docker
