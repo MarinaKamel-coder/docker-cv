@@ -7,7 +7,7 @@ L'objectif de ce TP est de démontrer la maîtrise de la conteneurisation avec D
 
 ## 🚀 Fonctionnalités
 - **Backend Node.js** : Serveur Express gérant une route API (`/api/cv`) pour servir les données.
-- **Frontend Dynamique** : Interface moderne en **Dark Mode** utilisant l'API Fetch pour afficher les données.
+- **Frontend Dynamique** : Interface moderne en utilisant l'API Fetch pour afficher les données.
 - **Architecture Propre** : Séparation claire entre les données (JSON), la logique (JS) et le style (CSS).
 - **Dockerisé** : Image légère basée sur Alpine Linux.
 
