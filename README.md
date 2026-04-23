@@ -52,5 +52,5 @@ Pour ce TP, le **Dockerfile** a été optimisé selon les meilleures pratiques :
 **Nettoyage :** Utilisation d'un fichier **.dockerignore** pour exclure les dossiers node_modules et les fichiers de configuration locaux.
 
 ## 🔗 Liens de remise
-- **Docker Hub** : [marinakamel/mon-cv-docker:v7](https://hub.docker.com/repository/docker/marinakamel/mon-cv-docker)
-- **GitHub** : [marinakamel/mon-cv-docker](https://github.com/marinakamel/mon-cv-docker)
+- **Docker Hub** : https://hub.docker.com/repository/docker/marinakamel/mon-cv-docker
+- **GitHub** : https://github.com/MarinaKamel-coder/docker-cv.git
